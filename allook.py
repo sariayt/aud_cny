@@ -13,10 +13,13 @@ grouped = filtered_df.groupby(['BCLASS3', 'ISS_Sust'])['LGXSTRUU_MV_pct'].sum().
 # Pivot-Tabelle erstellen, um die Werte übersichtlich darzustellen
 pivot_table = grouped.pivot(index='BCLASS3', columns='ISS_Sust', values='LGXSTRUU_MV_pct').fillna(0)
 
+# Gesamte Gewichte für jeden Sektor berechnen
+pivot_table['Total_Sektor_Gewicht'] = pivot_table.sum(axis=1)
+
 # Ausgabe der Ergebnisse
-print("Prozentuale Verteilung in den verschiedenen Sektoren:")
+print("Prozentuale Verteilung in den verschiedenen Sektoren (inkl. Gesamtgewicht):")
 print(pivot_table)
 
 # Optional: Ergebnisse in eine neue Excel-Datei speichern
-output_path = "ergebnisse.xlsx"  # Optional: Pfad für die Ausgabe
-pivot_table.to_excel(output_path) 
+output_path = "ergebnisse_mit_gesamtgewicht.xlsx"  # Optional: Pfad für die Ausgabe
+pivot_table.to_excel(output_path)
