@@ -332,4 +332,33 @@ Die Zinspolitik in Australien und China wird im Jahr 2025 voraussichtlich von un
 
 - **Wirtschaftliche Prioritäten:** Die RBA konzentriert sich auf die Senkung der Inflation, während die PBoC Maßnahmen zur Ankurbelung des Wirtschaftswachstums priorisiert.
 
-Diese unterschiedlichen Ansätze spiegeln die spezifischen wirtschaftlichen Bedingungen und Prioritäten der beiden Länder wider. 
+Diese unterschiedlichen Ansätze spiegeln die spezifischen wirtschaftlichen Bedingungen und Prioritäten der beiden Länder wider
+
+
+
+
+------
+
+
+
+Hier sind die Referenzen zu den Prognosen für die Zinspolitik in Australien und China im Jahr 2025:
+
+**Australien:**
+
+- **Zinspolitik:** Die Reserve Bank of Australia (RBA) hat den Leitzins seit November 2023 unverändert bei 4,35 % belassen. Es wird erwartet, dass die RBA die Zinsen bis mindestens zum zweiten Quartal 2025 stabil hält, bevor mögliche Senkungen in Betracht gezogen werden.  [oai_citation:6,Leitzins der Zentralbank von Australien bis 2024 - Statista](https://de.statista.com/statistik/daten/studie/1382263/umfrage/leitzins-der-zentralbank-von-australien/?utm_source=chatgpt.com)
+
+- **Inflationsziel:** Die RBA strebt an, die Inflation bis 2025 wieder in den Zielbereich von 2–3 % zu bringen. Dies deutet darauf hin, dass die Zentralbank vorsichtig agiert und weitere Zinsanhebungen nicht ausschließt, sollte die Inflation nicht wie erwartet zurückgehen.  [oai_citation:5,Leitzins der Zentralbank von Australien bis 2024 - Statista](https://de.statista.com/statistik/daten/studie/1382263/umfrage/leitzins-der-zentralbank-von-australien/?utm_source=chatgpt.com)
+
+**China:**
+
+- **Geldpolitik:** Die People's Bank of China (PBoC) plant für 2025 eine "angemessen lockere Geldpolitik" in Kombination mit einer proaktiven Fiskalpolitik, um das Wirtschaftswachstum zu fördern. Dies könnte weitere Zinssenkungen und Liquiditätsmaßnahmen umfassen.  [oai_citation:4,China vows to ramp up policy stimulus to spur growth in 2025](https://www.reuters.com/world/china/china-announces-first-monetary-policy-shift-since-2010-spur-growth-2024-12-09/?utm_source=chatgpt.com)
+
+- **Wachstumsförderung:** Angesichts der Herausforderungen wie einer alternden Bevölkerung und hoher Verschuldung plant die chinesische Regierung, durch expansive geld- und fiskalpolitische Maßnahmen das Wachstum zu fördern. Die PBoC könnte daher die Zinsen weiter senken, um Investitionen und Konsum zu stimulieren.  [oai_citation:3,China vows to ramp up policy stimulus to spur growth in 2025](https://www.reuters.com/world/china/china-announces-first-monetary-policy-shift-since-2010-spur-growth-2024-12-09/?utm_source=chatgpt.com)
+
+**Zitate und Aussagen der Zentralbanken:**
+
+- **Reserve Bank of Australia:** In einer Erklärung betonte die RBA, dass sie "die Zinsen so lange wie nötig auf dem aktuellen Niveau halten wird, um die Inflation in den Zielbereich zurückzuführen". Dies unterstreicht die Entschlossenheit der RBA, die Preisstabilität zu gewährleisten.  [oai_citation:2,Leitzins der Zentralbank von Australien bis 2024 - Statista](https://de.statista.com/statistik/daten/studie/1382263/umfrage/leitzins-der-zentralbank-von-australien/?utm_source=chatgpt.com)
+
+- **People's Bank of China:** Die PBoC erklärte, dass sie "eine angemessen lockere Geldpolitik verfolgen wird, um die wirtschaftliche Stabilität und ein nachhaltiges Wachstum zu fördern". Dies signalisiert die Bereitschaft, durch Zinssenkungen und andere Maßnahmen die Wirtschaft zu unterstützen.  [oai_citation:1,China vows to ramp up policy stimulus to spur growth in 2025](https://www.reuters.com/world/china/china-announces-first-monetary-policy-shift-since-2010-spur-growth-2024-12-09/?utm_source=chatgpt.com)
+
+Diese Quellen bieten detaillierte Einblicke in die geplanten geldpolitischen Maßnahmen der jeweiligen Zentralbanken für das Jahr 2025. . 
